@@ -1,5 +1,4 @@
-### Hey👋 
-I'm Sisco!
+### Hey👋 I'm Sisco!
 A Kenyan based software engineer who's passionate about creating quality products that meet all of the customer’s needs. I love learning new techniques and technologies that allow me to make that happen. 
 
 - 🔭 I’m currently working on Microsoft Business Central
