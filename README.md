@@ -1,7 +1,7 @@
 ### Hey👋 I'm Sisco!
 A Kenyan based software engineer who's passionate about creating quality products that meet all of the customer’s needs. I love learning new techniques and technologies that allow me to make that happen. 
 
-- 🔭 I’m currently working on Microsoft Business Central
+- 🔭 I’m currently working on Microsoft Business Central, and everything React Native
 - 🌱 I’m currently learning AL development and Cloud Computing
 - 👯 I’m looking to collaborate on anything AL, Python and the Cloud
 - 💬 Ping me about design, branding, engineering, development and design thinking
